@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+.fb{
+    margin: 0 10px;
+    width: 20px;
+}
+.github{
+    width: 20px;
+}
